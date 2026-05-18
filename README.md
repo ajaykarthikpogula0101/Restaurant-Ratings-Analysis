@@ -203,6 +203,8 @@ The top 5 restaurants are Tortas Locas Hipocampo, Puesto de Tacos (12 satisfied)
 The top 5 restaurants are Tortas Locas Hipocampo, Puesto de Tacos (30 highly satisfied), Cafeteria y Restaurante El Pacífico (24 highly satisfactory), La Cantina Restaurante (28 highly satisfied), and Restaurant la Chalita (20 highly satisfied).
 
 ## Dashboard
+📊 [View Power BI Report](analysis.pbix)
+
 ![Overview](Dashboard/dashboard_overview.png)
 ![Local Insights](Dashboard/dashboard_local_insights.jpg)
 ![Dining Insights](Dashboard/dashboard_dining_insights.jpg)
