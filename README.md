@@ -72,7 +72,7 @@ Our dataset consists of the following observations:
 | Cuisine | Types of food the restaurant serves |
 
 ## ER Diagram
-_(Coming soon)_
+![ER Diagram](ER.png)
 
 ## Data Cleaning
 _(Coming soon)_
